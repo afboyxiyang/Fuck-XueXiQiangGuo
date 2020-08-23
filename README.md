@@ -5,29 +5,29 @@
 
 ## 下载
 
-[Windows](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-win32.zip)
+[Windows](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/Fuck学习强国-win32.zip)
 
-[Mac](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-darwin.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-darwin.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-darwin.zip)
+[Mac](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-darwin.zip) &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/Fuck学习强国-darwin.zip) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/Fuck学习强国-darwin.zip)
 
-[Linux x86_64](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-linux.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-linux.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-linux.zip)
+[Linux x86_64](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-linux.zip) &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/Fuck学习强国-linux.zip) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/Fuck学习强国-linux.zip)
 
-[树莓派 (Linux armv7l)](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/Fuck学习强国-raspberrypi.zip)
+[树莓派 (Linux armv7l)](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/Fuck学习强国-raspberrypi.zip)
 
-[app.asar](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/app.asar) 更新包 &nbsp;|&nbsp; [镜像1](https://raw.githack.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/app.asar) &nbsp;|&nbsp; [镜像2](https://cdn.staticaly.com/gh/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/master/app.asar)  
+[app.asar](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/app.asar) 更新包 &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/app.asar) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/app.asar)  
 (记得校验[sha256](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/version.json))
 
 ### 在 IPFS 上的镜像
 
 ipns://QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw
 
-[IPFS镜像1](https://cloudflare-ipfs.com/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw) &nbsp;|&nbsp; [IPFS镜像2](https://ipfs.io/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw) &nbsp;|&nbsp; [IPFS镜像3](https://siderus.io/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw)
+[IPFS镜像1](https://cloudflare-ipfs.com/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw) &nbsp;|&nbsp; [IPFS镜像2](https://ipfs.io/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw) &nbsp;|&nbsp; [IPFS镜像3](https://siderus.io/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw) &nbsp;|&nbsp; [IPFS镜像4](https://ipfs.eternum.io/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw) &nbsp;|&nbsp; [IPFS镜像5](https://gateway.pinata.cloud/ipns/QmXBUF7nWwQeQfdiewCFUtQvb5YDPdMZ81J1EyfXpbeLVw)
 
 ## 使用方法
 
 * 请解压后点击 `Fuck学习强国.exe` 来启动程序。
 * 对于Linux用户，请在使用前为程序添加可执行权限: `chmod +x Fuck学习强国`
 * 如果你没有登录账号，请在打开的页面中扫描二维码登录。
-* 等待打开的窗口中的程序自动完成“学刁”，你可以用这台电脑做其他事情，但不要 最小化 或 关闭 那个窗口。
+* 等待打开的窗口中的程序自动完成“学刁”，~~你可以用这台电脑做其他事情，但不要 最小化 或 关闭 那个窗口~~（[已经解决此问题](CHANGELOG.md#062---2019-04-04)）。
 
 ## 直接在命令行界面运行
 
@@ -72,11 +72,11 @@ chmod +x ./Fuck学习强国
 
 对于Mac用户，请替换Contents/Resources/app.asar
 
-[version.json](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/version.json)文件中有app.asar的sha256校验值，可自行核对。
+[version.json](version.json)文件中有app.asar的sha256校验值，可自行核对。
 
 ## Changelog
 
-[CHANGELOG.md](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/CHANGELOG.md)
+[CHANGELOG.md](CHANGELOG.md)
 
 ## License
 
